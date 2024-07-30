@@ -131,6 +131,8 @@ button:hover {
 
 .form-group {
     margin-bottom: 1.5em;
+    background: #323233;
+    border: none;
 }
 
 .form-group label {
